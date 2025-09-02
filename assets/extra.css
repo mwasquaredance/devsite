@@ -1,0 +1,69 @@
+/* Center and widen the landing content a bit */
+.hero {
+  text-align: center;
+  padding: 3rem 1rem 2rem;
+}
+.hero h1 {
+  margin: 0 0 .3rem;
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+}
+.hero .tagline {
+  font-size: 1.1rem;
+  opacity: .85;
+  margin: .25rem 0 1rem;
+}
+.hero .cta .md-button {
+  margin: .25rem .4rem;
+}
+
+/* Simple responsive cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+.card {
+  display: block;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  text-decoration: none;
+  background: var(--md-default-bg-color);
+  transition: transform 120ms ease, border-color 120ms ease, box-shadow 120ms ease;
+}
+.card h3 {
+  margin: 0 0 .25rem;
+}
+.card p {
+  margin: 0;
+  opacity: .85;
+}
+.card:hover {
+  transform: translateY(-2px);
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 4px 20px rgba(0,0,0,.06);
+}
+
+/* Remove the left gutter on the homepage for a roomier feel */
+.md-content__inner {
+  margin-top: 0;
+}
+
+
+/* Keep the header solid if you like readability 
+.md-header { background-color: var(--md-default-bg-color); }*/
+
+/* Optional readability bump on detailed photos 
+.hero h1, .hero .tagline { text-shadow: 0 1px 12px rgba(0,0,0,.25); }*/
+
+/* Respect data savers 
+@media (prefers-reduced-data: reduce) {
+  .hero.hero--landing::before {
+    background: var(--md-primary-fg-color);
+    filter: none;
+  }
+}*/
