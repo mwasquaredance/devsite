@@ -44,9 +44,9 @@ hide:
   </summary>
   <div class="officer-card__body">
     <div class="officer-card__photo" aria-hidden="true">👤</div>
-    <dl class="officer-card__fields">
-      <dt>:material-phone-classic:</dt><dd class="officer-card__fields"><a href="tel:+15038735241">(503) 873-5241</a></dd>
-      <dt>:material-phone-classic:</dt><dd class="officer-card__fields"><a href="mailto:buchheitfarmkm@gmail.com">buchheitfarmkm@gmail.com</a></dd>
+    <dl class="officer-card__fields" markdown="1">
+      <dt markdown="1">:material-phone-classic:</dt><dd class="officer-card__fields"><a href="tel:+15038735241">(503) 873-5241</a></dd>
+      <dt><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2c-.5 0-1 .19-1.41.59l-3.3 3.29 4.71 4.7 4.71-4.7-3.3-3.29C13 2.19 12.5 2 12 2M5.88 7.29l-3.29 3.3c-.79.78-.79 2.04 0 2.82l3.29 3.3 4.7-4.71zm12.24 0L13.42 12l4.7 4.71 3.29-3.3c.79-.78.79-2.04 0-2.82zM12 13.42l-4.71 4.7 3.3 3.29c.78.79 2.04.79 2.82 0l3.3-3.29z"></path></svg></dt><dd class="officer-card__fields"><a href="mailto:buchheitfarmkm@gmail.com">buchheitfarmkm@gmail.com</a></dd>
       <dt>:material-phone-classic:</dt><dd class="officer-card__fields">6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
   </div>
