@@ -6,8 +6,8 @@ nav:
   - Home: index.md
   - Palette: palette/index.md
   - Clubs: clubs/index.md
-  - Calendar: calendar/index.md
-  - New Dancers: new-dancers/index.md
+#  - Calendar: calendar/index.md
+#  - New Dancers: council/index.md
   - Council: council/index.md
 
 theme:
