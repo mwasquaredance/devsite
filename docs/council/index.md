@@ -11,7 +11,7 @@
 <div class="officer-grid" markdown>
 
 <!-- President -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">President</span>
@@ -27,10 +27,10 @@
       <dt>Mailing</dt><dd>5250 Zosel Avenue S<br/>Salem, OR 97306</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Vice-President -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Vice-President</span>
@@ -46,10 +46,10 @@
       <dt>Mailing</dt><dd>6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Secretary -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Secretary</span>
@@ -65,10 +65,10 @@
       <dt>Mailing</dt><dd>376 SE Needham St<br/>Dallas, OR 97338</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Treasurer -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Treasurer</span>
@@ -84,10 +84,10 @@
       <dt>Mailing</dt><dd>4684 Ivory Way NE<br/>Salem, OR 97305</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Delegate -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Delegate</span>
@@ -103,10 +103,10 @@
       <dt>Mailing</dt><dd>3317 Oxford Avenue SE<br/>Albany, OR 97322</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Alternate Delegate -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Alternate Delegate</span>
@@ -122,10 +122,10 @@
       <dt>Mailing</dt><dd>6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Area Editor -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Area Editor</span>
@@ -141,10 +141,10 @@
       <dt>Mailing</dt><dd>PO Box 686<br/>Lafayette, OR 97127</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Round Dance Coordinator -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Round Dance Coordinator</span>
@@ -160,10 +160,10 @@
       <dt>Mailing</dt><dd>1316 E Burnett Street<br/>Stayton, OR 97383</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Webmaster -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Webmaster</span>
@@ -179,10 +179,10 @@
       <dt>Mailing</dt><dd><em>—</em></dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Sunshine -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Sunshine</span>
@@ -198,10 +198,10 @@
       <dt>Mailing</dt><dd>4684 Ivory Way NE<br/>Salem, OR 97305</dd>
     </dl>
   </div>
-</details>
+</div>
 
 <!-- Past President -->
-<details class="officer-card">
+<div class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Past President</span>
@@ -217,6 +217,6 @@
       <dt>Mailing</dt><dd>6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
   </div>
-</details>
+</div>
 
 </div>
