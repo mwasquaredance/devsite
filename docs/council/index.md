@@ -45,9 +45,9 @@ hide:
   <div class="officer-card__body">
     <div class="officer-card__photo" aria-hidden="true">👤</div>
     <dl class="officer-card__fields">
-      <dd class="officer-card__fields"><a href="tel:+15038735241">(503) 873-5241</a></dd>
-      <dd class="officer-card__fields"><a href="mailto:buchheitfarmkm@gmail.com">buchheitfarmkm@gmail.com</a></dd>
-      <dd class="officer-card__fields">6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
+      <dt>:material-phone-classic:</dt><dd class="officer-card__fields"><a href="tel:+15038735241">(503) 873-5241</a></dd>
+      <dt>:material-phone-classic:</dt><dd class="officer-card__fields"><a href="mailto:buchheitfarmkm@gmail.com">buchheitfarmkm@gmail.com</a></dd>
+      <dt>:material-phone-classic:</dt><dd class="officer-card__fields">6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
   </div>
 </details>
