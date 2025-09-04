@@ -65,7 +65,8 @@ hide:
     <div class="officer-card__photo" aria-hidden="true">👤</div>
     <dl class="officer-card__fields" markdown="1">
       <dt>:material-phone-classic:</dt><dd><a href="tel:+15035080539">(503) 508-0539</a></dd>
-      <dt>:material-email:</dt><dd><a href="mailto:froggydancer@live.com">froggydancer@live.com</a></dd>
+      <dt><span class="md-icon"><svg><use href="#material-email"></use></svg></span></dt>
+      <dd><a href="mailto:froggydancer@live.com">froggydancer@live.com</a></dd>
       <dt>Mailing</dt><dd>376 SE Needham St<br/>Dallas, OR 97338</dd>
     </dl>
   </div>
