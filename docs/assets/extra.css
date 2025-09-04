@@ -146,8 +146,6 @@ dl.officer-card__fields {
   margin: 0;
 }
 .officer-card__fields dt{
-  float: left;
-/*  clear: left;*/
   margin: 0 .2rem .3rem 0;
   font-weight: 700;
 }
