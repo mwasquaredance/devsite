@@ -1,6 +1,5 @@
 site_name: Mid-Willamette Area Council of Square and Round Dance Clubs
 site_url: https://mwasquaredance.github.io/website/
-edit_uri: ""
 copyright: "Updated: September 2025 by Layhna"
 
 nav:
@@ -52,3 +51,6 @@ extra_css:
 markdown_extensions:
   - attr_list              # lets us style links as buttons
   - md_in_html             # allow HTML blocks in Markdown
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
