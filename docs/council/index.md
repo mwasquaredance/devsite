@@ -1,3 +1,10 @@
+---
+title: MWA Council Directory
+hide:
+  - navigation    # hide tabs / left sidebar on the homepage
+  - toc           # hide the in-page table of contents here
+---
+
 # MWA Council Directory
 
 <p class="council-meta">
@@ -8,29 +15,26 @@
 
 ## 2025–2026 Area Officers
 
-<div class="officer-grid" markdown>
+<div class="officer-grid">
 
 <!-- President -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
-    <div class="officer-card__header">
-      <span class="officer-card__role">President</span>
-      <span class="officer-card__chev" aria-hidden="true">▾</span>
-    </div>
-    <div class="officer-card__name">George Hagerman</div>
+    <span class="officer-card__role">President</span>
+    <span class="officer-card__name">George Hagerman</span>
   </summary>
   <div class="officer-card__body">
-    <div class="officer-card__photo" aria-hidden="true">👤</div>
+    <div class="officer-card__photo">👤</div>
     <dl class="officer-card__fields">
       <dt>Phone</dt><dd><a href="tel:+15033718951">(503) 371-8951</a></dd>
       <dt>Email</dt><dd><a href="mailto:ghcpapc@qwestoffice.net">ghcpapc@qwestoffice.net</a></dd>
       <dt>Mailing</dt><dd>5250 Zosel Avenue S<br/>Salem, OR 97306</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Vice-President -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Vice-President</span>
@@ -41,15 +45,15 @@
   <div class="officer-card__body">
     <div class="officer-card__photo" aria-hidden="true">👤</div>
     <dl class="officer-card__fields">
-      <dt>Phone</dt><dd><a href="tel:+15038735241">(503) 873-5241</a></dd>
-      <dt>Email</dt><dd><a href="mailto:buchheitfarmkm@gmail.com">buchheitfarmkm@gmail.com</a></dd>
-      <dt>Mailing</dt><dd>6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
+      <dd class="officer-card__fields"><a href="tel:+15038735241">(503) 873-5241</a></dd>
+      <dd class="officer-card__fields"><a href="mailto:buchheitfarmkm@gmail.com">buchheitfarmkm@gmail.com</a></dd>
+      <dd class="officer-card__fields">6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Secretary -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Secretary</span>
@@ -60,15 +64,15 @@
   <div class="officer-card__body">
     <div class="officer-card__photo" aria-hidden="true">👤</div>
     <dl class="officer-card__fields">
-      <dt>Phone</dt><dd><a href="tel:+15035080539">(503) 508-0539</a></dd>
-      <dt>Email</dt><dd><a href="mailto:froggydancer@live.com">froggydancer@live.com</a></dd>
+      <dt>:material-phone-classic:</dt><dd><a href="tel:+15035080539">(503) 508-0539</a></dd>
+      <dt><span class="material-icons">email</span></dt><dd><a href="mailto:froggydancer@live.com">froggydancer@live.com</a></dd>
       <dt>Mailing</dt><dd>376 SE Needham St<br/>Dallas, OR 97338</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Treasurer -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Treasurer</span>
@@ -84,10 +88,10 @@
       <dt>Mailing</dt><dd>4684 Ivory Way NE<br/>Salem, OR 97305</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Delegate -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Delegate</span>
@@ -103,10 +107,10 @@
       <dt>Mailing</dt><dd>3317 Oxford Avenue SE<br/>Albany, OR 97322</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Alternate Delegate -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Alternate Delegate</span>
@@ -122,10 +126,10 @@
       <dt>Mailing</dt><dd>6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Area Editor -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Area Editor</span>
@@ -141,10 +145,10 @@
       <dt>Mailing</dt><dd>PO Box 686<br/>Lafayette, OR 97127</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Round Dance Coordinator -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Round Dance Coordinator</span>
@@ -160,10 +164,10 @@
       <dt>Mailing</dt><dd>1316 E Burnett Street<br/>Stayton, OR 97383</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Webmaster -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Webmaster</span>
@@ -179,10 +183,10 @@
       <dt>Mailing</dt><dd><em>—</em></dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Sunshine -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Sunshine</span>
@@ -198,10 +202,10 @@
       <dt>Mailing</dt><dd>4684 Ivory Way NE<br/>Salem, OR 97305</dd>
     </dl>
   </div>
-</div>
+</details>
 
 <!-- Past President -->
-<div class="officer-card">
+<details class="officer-card">
   <summary>
     <div class="officer-card__header">
       <span class="officer-card__role">Past President</span>
@@ -217,6 +221,6 @@
       <dt>Mailing</dt><dd>6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
   </div>
-</div>
+</details>
 
 </div>

@@ -58,13 +58,20 @@
 /* Grid */
 .officer-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(390px, 1fr));
   gap: 1rem;
   margin-top: .75rem;
 }
 
+details.officer-card,
+details.officer-card > summary {
+  all: revert;            /* roll back to user-agent defaults */
+  all: unset;             /* wipe Material’s injected box/padding */
+  display: block;
+}
+
 /* Card shell */
-.officer-card {
+details.officer-card {
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 12px;
   background: var(--md-default-bg-color);
@@ -72,25 +79,25 @@
   transition: box-shadow .15s ease, border-color .15s ease, transform .15s ease;
   overflow: clip;
 }
-.officer-card[open] {
+details.officer-card[open] {
   border-color: var(--md-accent-fg-color);
   box-shadow: 0 10px 28px rgba(0,0,0,.12);
 }
 
 /* Make the whole header+name area the clickable summary */
-.officer-card > summary {
+details.officer-card > summary {
   list-style: none;
   cursor: pointer;
   padding: .85rem .95rem .7rem;
 }
-.officer-card > summary::-webkit-details-marker { display: none; }
+details.officer-card > summary::-webkit-details-marker { display: none; }
 
 /* Header bar (office title) */
 .officer-card__header {
   display: grid;
   grid-template-columns: 1fr auto;
   align-items: center;
-  margin: -.85rem -.95rem 0;            /* stretch to edges */
+  margin: -.85rem -2rem 0;            /* stretch to edges */
   padding: .55rem .95rem;
   background: var(--md-accent-fg-color);
   color: #fff;
@@ -135,19 +142,17 @@
 }
 
 /* Fields */
-.officer-card__fields {
-  margin: 0;
+dl.officer-card__fields {
+  margin: 0; !important
 }
-.officer-card__fields dt {
+.officer-card__fields dt{
   float: left;
-  clear: left;
-  width: 5.5rem;
+/*  clear: left;*/
+  margin: 0 .2rem .3rem 0;
   font-weight: 700;
-  font-size: .84rem;
-  opacity: .75;
 }
-.officer-card__fields dd {
-  margin: 0 0 .35rem 6.2rem;
+.md-typeset .officer-card__fields dd {
+  margin: 0 0 .3rem 0;
 }
 
 /* Focus ring for keyboard users */
