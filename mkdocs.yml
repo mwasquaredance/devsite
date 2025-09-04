@@ -1,7 +1,53 @@
-site_name: MWA Council
+site_name: Mid-Willamette Area Council of Square and Round Dance Clubs
+site_url: https://mwasquaredance.github.io/website/
+copyright: "Updated: September 2025 by Layhna"
 
 nav:
   - Home: index.md
-  - About: about.md
+  - Palette: palette/index.md
+  - Clubs: clubs/index.md
+  - Calendar: calendar/index.md
+  - New Dancers: new-dancers/index.md
+  - Council: council/index.md
 
-theme: material
+theme:
+  name: material
+  icon:
+    logo: material/rhombus-split    # star-four-points-box for clubs
+  
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+  
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  
+  font:
+    text: Inter
+    code: Fira Code
+
+extra_css:
+  - assets/extra.css
+  - assets/brand.css
+
+markdown_extensions:
+  - attr_list              # lets us style links as buttons
+  - md_in_html             # allow HTML blocks in Markdown

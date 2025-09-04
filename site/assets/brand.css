@@ -1,0 +1,27 @@
+/* Light scheme */
+[data-md-color-scheme="default"]{
+  /* Brand */
+  --md-primary-fg-color:        #2D767F;  /* primary */
+  --md-primary-fg-color--light: #7DB3FF;  /* optional */
+  --md-primary-fg-color--dark:  #163B73;  /* optional */
+  --md-accent-fg-color:         #B6872E;  /* accent */
+
+  /* Optional: subtle tinted paper background (uncomment to use) */
+   --md-default-bg-color: #eeddbd; 
+   --md-default-fg-color: rgba(0,0,0,1); 
+}
+
+/* Dark scheme */
+[data-md-color-scheme="slate"]{
+  /* Brand tuned for dark */
+  --md-primary-fg-color:        #6FBABF;  /* primary */
+  --md-primary-fg-color--light: #BBD1FF;  /* optional */
+  --md-primary-fg-color--dark:  #4C76C2;  /* optional */
+  --md-accent-fg-color:         #D2AC5C;  /* accent */
+
+  /* Optional: deep canvas (uncomment to use) */
+   --md-default-bg-color: #0F1617; 
+   --md-default-fg-color: rgba(255,255,255,1); 
+}
+
+
