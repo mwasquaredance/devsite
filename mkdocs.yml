@@ -49,8 +49,9 @@ extra_css:
   - assets/brand.css
 
 markdown_extensions:
-  - attr_list              # lets us style links as buttons
-  - md_in_html             # allow HTML blocks in Markdown
+#  - attr_list              # lets us style links as buttons
+#  - md_in_html             # allow HTML blocks in Markdown
+  - pymdownx.extra
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

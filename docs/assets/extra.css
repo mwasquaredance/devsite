@@ -142,8 +142,11 @@ details.officer-card > summary::-webkit-details-marker { display: none; }
 }
 
 /* Fields */
-dl.officer-card__fields {
-  margin: 0;
+.officer-card__fields {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: .35rem .6rem;
+    align-items: start;
 }
 .officer-card__fields dt{
   margin: 0 .2rem .3rem 0;

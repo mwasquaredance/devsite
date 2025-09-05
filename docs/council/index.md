@@ -36,41 +36,45 @@ hide:
 <!-- Vice-President -->
 <details class="officer-card">
   <summary>
-    <div class="officer-card__header">
+    <span class="officer-card__header">
       <span class="officer-card__role">Vice-President</span>
       <span class="officer-card__chev" aria-hidden="true">▾</span>
-    </div>
-    <div class="officer-card__name">Karyn/Mathew Buchheit</div>
+    </span>
+    <span class="officer-card__name">Karyn/Mathew Buchheit</span>
   </summary>
-  <div class="officer-card__body">
-    <div class="officer-card__photo" aria-hidden="true">👤</div>
+  <span class="officer-card__body">
+    <span class="officer-card__photo" aria-hidden="true">👤</span>
     <dl class="officer-card__fields" markdown="1">
-      <dt markdown="span">:material-phone-classic:</dt><dd class="officer-card__fields"><a href="tel:+15038735241">(503) 873-5241</a></dd>
+      <dt markdown="span">:material-phone-classic:</dt>
+      <dd class="officer-card__fields"><a href="tel:+15038735241">(503) 873-5241</a></dd>
       <dt><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2c-.5 0-1 .19-1.41.59l-3.3 3.29 4.71 4.7 4.71-4.7-3.3-3.29C13 2.19 12.5 2 12 2M5.88 7.29l-3.29 3.3c-.79.78-.79 2.04 0 2.82l3.29 3.3 4.7-4.71zm12.24 0L13.42 12l4.7 4.71 3.29-3.3c.79-.78.79-2.04 0-2.82zM12 13.42l-4.71 4.7 3.3 3.29c.78.79 2.04.79 2.82 0l3.3-3.29z"></path></svg></dt><dd class="officer-card__fields"><a href="mailto:buchheitfarmkm@gmail.com">buchheitfarmkm@gmail.com</a></dd>
       <dt>:material-phone-classic:</dt><dd class="officer-card__fields">6122 Brush Creek Road<br/>Silverton, OR 97381</dd>
     </dl>
-  </div>
+  </span>
 </details>
 
 <!-- Secretary -->
 <details class="officer-card">
-  <summary>
-    <div class="officer-card__header">
-      <span class="officer-card__role">Secretary</span>
-      <span class="officer-card__chev" aria-hidden="true">▾</span>
+    <summary class="officer-card__summary">
+        <span class="officer-card__role">Secretary</span>
+        <span class="officer-card__name">Marilyn Schmit</span>
+    </summary>
+
+    <div class="officer-card__body">
+      <div class="officer-card__photo" aria-hidden="true">👤</div>
+
+      <dl class="officer-card__fields" markdown="1">
+        <dt markdown="span">:material-phone-classic:</dt>
+        <dd><a href="tel:+15035080539">(503) 508‑0539</a></dd>
+
+        <dt markdown="span">:material-email:</dt>
+        <dd><a href="mailto:froggydancer@live.com">froggydancer@live.com</a></dd>
+
+        <dt>Mailing</dt>
+        <dd>376 SE Needham St<br/>Dallas, OR 97338</dd>
+      </dl>
     </div>
-    <div class="officer-card__name">Marilyn Schmit</div>
-  </summary>
-  <div class="officer-card__body">
-    <div class="officer-card__photo" aria-hidden="true">👤</div>
-    <dl class="officer-card__fields" markdown="1">
-      <dt>:material-phone-classic:</dt><dd><a href="tel:+15035080539">(503) 508-0539</a></dd>
-      <dt><span class="md-icon"><svg><use href="#material-email"></use></svg></span></dt>
-      <dd><a href="mailto:froggydancer@live.com">froggydancer@live.com</a></dd>
-      <dt>Mailing</dt><dd>376 SE Needham St<br/>Dallas, OR 97338</dd>
-    </dl>
-  </div>
-</details>
+  </details>
 
 <!-- Treasurer -->
 <details class="officer-card">
