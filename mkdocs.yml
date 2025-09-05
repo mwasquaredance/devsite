@@ -1,4 +1,4 @@
-site_name: Mid-Willamette Area Council of Square and Round Dance Clubs
+site_name: Mid-Willamette Area Council
 site_url: https://mwasquaredance.github.io/website/
 copyright: "Updated: September 2025 by Layhna"
 
@@ -14,6 +14,7 @@ theme:
   name: material
   icon:
     logo: material/rhombus-split    # star-four-points-box for clubs
+  custom_dir: overrides
   
   features:
     - navigation.tabs
@@ -49,9 +50,18 @@ extra_css:
   - assets/brand.css
 
 markdown_extensions:
-#  - attr_list              # lets us style links as buttons
-#  - md_in_html             # allow HTML blocks in Markdown
-  - pymdownx.extra
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - attr_list   # add HTML attributes and CSS classes
+  - md_in_html  # allow markdown within HTML
+  - def_list    # add Definition Lists
+  - meta
+  - pymdownx.superfences      # allows nesting
+  - pymdownx.tabbed:          # allows content tabs
+      alternate_style: true   # avoids wrapping tab titles on small screens
+#  - pymdownx.extra
+#  - pymdownx.emoji:
+#      emoji_index: !!python/name:material.extensions.emoji.twemoji
+#      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins: []
+#  - social

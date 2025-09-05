@@ -1,8 +1,8 @@
 ---
 title: MWA Council Directory
 hide:
-  - navigation    # hide tabs / left sidebar on the homepage
-  - toc           # hide the in-page table of contents here
+#  - navigation    # hide tabs / left sidebar on the homepage
+#  - toc           # hide the in-page table of contents here
 ---
 
 # MWA Council Directory
@@ -56,7 +56,10 @@ hide:
 <!-- Secretary -->
 <details class="officer-card">
     <summary class="officer-card__summary">
-        <span class="officer-card__role">Secretary</span>
+        <span class="officer-card__header">
+            <span class="officer-card__role">Secretary</span>
+            <span class="officer-card__chev" aria-hidden="true">▾</span>
+        </span>
         <span class="officer-card__name">Marilyn Schmit</span>
     </summary>
 
