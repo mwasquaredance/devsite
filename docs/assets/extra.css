@@ -152,6 +152,10 @@ dl.officer-card__fields {
 .md-typeset .officer-card__fields dd {
   margin: 0 0 .3rem 0;
 }
+.officer-card__fields dt svg {
+    width: 1rem;
+    height: 1rem;
+}
 
 /* Focus ring for keyboard users */
 .officer-card > summary:focus-visible {
