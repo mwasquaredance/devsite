@@ -35,11 +35,16 @@
       </div>
     </div>
 
+
+<!-- Moved nav tabs into top header bar -->
     {% if "navigation.tabs.sticky" in features %}
         {% if "navigation.tabs" in features %}
-            {% include "partials/tabs.html" %}
+            <div class="md-header__tabs"> <!-- Apply custom css for alignment -->
+                {% include "partials/tabs.html" %}
+            </div>
         {% endif %}
     {% endif %}
+<!-- Moved nav tabs into top header bar -->
 
     {% if config.theme.palette %}
       {% if not config.theme.palette is mapping %}
