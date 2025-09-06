@@ -26,10 +26,30 @@
   display: flex;
 }
 
-
-
 /* Remove the left gutter on the homepage for a roomier feel */
 .md-content__inner {
   margin-top: 0;
 }
 
+.emoji-avatar {
+  display: inline-block;
+  width: 80px;          /* match the width of your original image */
+  height: 80px;         /* match the height of your original image */
+  line-height: 80px;    /* vertically center the emoji */
+  font-size: 80px;      /* size of the emoji itself */
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%;   /* optional: circles the emoji like a profile picture */
+}
+
+.info summary {  
+  font-size: 1rem;
+}
+
+.info .grid p {  
+  font-size: .85rem;
+}
+
+.officerdirectory thead {
+  display:none;
+}

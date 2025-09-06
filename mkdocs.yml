@@ -14,16 +14,18 @@ theme:
   name: material
   icon:
     logo: material/rhombus-split    # star-four-points-box for clubs
+    admonition:
+      info: material/rhombus-split
   custom_dir: overrides
   
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.indexes
-    - navigation.instant
-    - navigation.top
-    - toc.integrate
+    - navigation.tabs         # render top-level sections in header, >1220px viewports
+    - navigation.tabs.sticky  # tabs always remain visible
+    - navigation.sections     # top-level sections rendered as groups in sidebar
+    - navigation.indexes      # page title is section title
+    - navigation.instant      # internal links dispatched via XHR
+    - navigation.top          # back-to-top button
+    - toc.integrate           # render toc as part of left nav
   
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -50,15 +52,17 @@ extra_css:
   - assets/brand.css
 
 markdown_extensions:
-  - admonition
+  - admonition  # enables call-outs
   - attr_list   # add HTML attributes and CSS classes
   - md_in_html  # allow markdown within HTML
   - def_list    # add Definition Lists
+  - tables      # adds table support
   - meta
   - pymdownx.superfences      # allows nesting
+  - pymdownx.details          # allows collapsible call-outs
+  - pymdownx.blocks.caption   # add captions to any markdown block
   - pymdownx.tabbed:          # allows content tabs
       alternate_style: true   # avoids wrapping tab titles on small screens
-#  - pymdownx.extra
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
