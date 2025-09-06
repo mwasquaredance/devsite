@@ -1,63 +1,84 @@
-site_name: Mid-Willamette Area Council
+# Lighting the Beacon: Square Nexus
+
+# Built for free with Material for MkDocs
+
+
+# Project Information
+site_name: MWA Council
 site_url: https://mwasquaredance.github.io/website/
-copyright: "Updated: September 2025 by Layhna"
+site_author: Layhna
+copyright: "Updated: September 2025 by Layhna"  # automatically added to footer
 
+
+# Repository
+repo_name: mwasquaredance/website
+repo_url: https://github.com/mwasquaredance
+
+
+# Page Tree
 nav:
-#  - Home: index.md
-  - Palette: palette/index.md
-  - Clubs: clubs/index.md
-#  - Calendar: calendar/index.md
-#  - New Dancers: council/index.md
+  - Home: index.md
   - Council: council/index.md
+  - Clubs: clubs/index.md
+  - Pictures: drafts/index.md
+  - More Info: drafts/index.md
+  - Palette: drafts/index.md
 
+
+# Theme Configuration
 theme:
   name: material
+#  custom_dir: overrides
+  font:
+    text: Inter
+    code: Fira Code
   icon:
     logo: material/rhombus-split    # star-four-points-box for clubs
     admonition:
       info: material/rhombus-split
-#  custom_dir: overrides
-  
+  favicon: assets/rhombus-split.svg
   features:
-  #  - navigation.tabs         # render top-level sections in header, >1220px viewports
+    - navigation.tabs         # render top-level sections in header, >1220px viewports
   #  - navigation.tabs.sticky  # tabs always remain visible
     - navigation.sections     # top-level sections rendered as groups in sidebar
     - navigation.indexes      # page title is section title
     - navigation.instant      # internal links dispatched via XHR
     - navigation.top          # back-to-top button
-    - toc.integrate           # render toc as part of left nav
-  
+    - toc.integrate           # render toc as part of left nav  
   palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: custom
-      accent: custom
+      primary: brown
+      accent: cyan
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: custom
-      accent: custom
+      primary: brown
+      accent: indigo
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
-  
-  font:
-    text: Inter
-    code: Fira Code
+        name: Switch to light mode  
 
+# Additional Configuration
+draft_docs:   # serve but exclude from build
+  drafts/
 extra_css:
   - assets/extra.css
-  - assets/brand.css
+#  - assets/brand.css
 
+# Extensions
 markdown_extensions:
   - admonition  # enables call-outs
   - attr_list   # add HTML attributes and CSS classes
-  - md_in_html  # allow markdown within HTML
   - def_list    # add Definition Lists
+  - md_in_html  # allow markdown within HTML
   - tables      # adds table support
-  - meta
   - pymdownx.superfences      # allows nesting
   - pymdownx.details          # allows collapsible call-outs
   - pymdownx.blocks.caption   # add captions to any markdown block
@@ -67,5 +88,7 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-plugins: []
+# Plugins
+plugins:
+  - search
 #  - social
