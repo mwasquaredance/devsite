@@ -3,7 +3,7 @@ site_url: https://mwasquaredance.github.io/website/
 copyright: "Updated: September 2025 by Layhna"
 
 nav:
-  - Home: index.md
+#  - Home: index.md
   - Palette: palette/index.md
   - Clubs: clubs/index.md
 #  - Calendar: calendar/index.md
@@ -19,8 +19,8 @@ theme:
   custom_dir: overrides
   
   features:
-    - navigation.tabs         # render top-level sections in header, >1220px viewports
-    - navigation.tabs.sticky  # tabs always remain visible
+  #  - navigation.tabs         # render top-level sections in header, >1220px viewports
+  #  - navigation.tabs.sticky  # tabs always remain visible
     - navigation.sections     # top-level sections rendered as groups in sidebar
     - navigation.indexes      # page title is section title
     - navigation.instant      # internal links dispatched via XHR

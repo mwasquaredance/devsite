@@ -19,8 +19,9 @@ hide:
 
 
 
-[Council](council/){ .md-button}
-[Clubs](clubs/){ .md-button}
+[Council](council/index.md){ .md-button}
+[Clubs](clubs/index.md){ .md-button}
+[Palette](palette/index.md){ .md-button}
 
 </div>
 
