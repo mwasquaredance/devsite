@@ -16,7 +16,7 @@ theme:
     logo: material/rhombus-split    # star-four-points-box for clubs
     admonition:
       info: material/rhombus-split
-  custom_dir: overrides
+#  custom_dir: overrides
   
   features:
   #  - navigation.tabs         # render top-level sections in header, >1220px viewports
