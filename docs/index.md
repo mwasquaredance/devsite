@@ -8,18 +8,21 @@ hide:
 <div class="hero" markdown>
 
 # Mid-Willamette Area Council
-### :material-human-female-dance:{ .twirl }:material-human-greeting:
+### :material-human-female-dance:{ .twirlgirl }:material-human-greeting:{ .twirlboy }
 
 ---
 
-## *Serving Square and Round Dance Clubs in Oregon's central Willamette Valley*
+## *Serving Square and Round Dance Clubs*
+## *in Oregon's Central Willamette Valley*
 
-</div>
-
+---
 
 [Council](council/index.md){ .md-button}
 [Clubs](clubs/index.md){ .md-button}
 [Palette](drafts/index.md){ .md-button}
+
+</div>
+
 
 
 
