@@ -24,7 +24,7 @@
   margin-left: -0.25em;  /* close the gap between front page icons */
   margin-right: -0.25em;
   font-size: clamp(2rem, 4vw, 3rem); /*min, ideal, max */
-/*  position: relative;*/
+  position: relative;
 }
 .hero h2 {
   font-size: 1.1rem;
@@ -87,8 +87,8 @@ details .grid p { font-size: .85rem; } /* inside text */
     left: 0px;
   }
   25% {
-    transform: scaleX(-0.3);
-    left: 200px;
+    transform: scaleX(-0.5);
+    left: 25px;
   }
 }
 /*
