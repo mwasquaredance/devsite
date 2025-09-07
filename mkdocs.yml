@@ -4,14 +4,14 @@
 
 
 # Project Information
-site_name: MWA Council
+site_name: MWA Square Dance
 site_url: https://mwasquaredance.github.io/website/
 site_author: Layhna
 copyright: "Updated: September 2025 by Layhna"  # automatically added to footer
 
 
 # Repository
-repo_name: mwasquaredance/website
+repo_name: mwasquaredance/devsite
 repo_url: https://github.com/mwasquaredance
 
 
@@ -33,9 +33,8 @@ theme:
     text: Inter
     code: Fira Code
   icon:
-    logo: material/rhombus-split    # star-four-points-box for clubs
-    admonition:
-      info: material/rhombus-split
+    logo: material/rhombus-split
+    repo: material/folder-heart    
   favicon: assets/rhombus-split.svg
   features:
     - navigation.tabs         # render top-level sections in header, >1220px viewports
@@ -70,7 +69,7 @@ draft_docs:   # serve but exclude from build
   drafts/
 extra_css:
   - assets/extra.css
-#  - assets/brand.css
+  - assets/colors.css
 
 # Extensions
 markdown_extensions:

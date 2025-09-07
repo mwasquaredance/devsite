@@ -1,5 +1,5 @@
 ---
-title: MWA Council Directory
+title: Council
 hide:
 #  - navigation    # hide tabs / left sidebar on the homepage
 #  - toc           # hide the in-page table of contents here
@@ -11,7 +11,7 @@ hide:
 
 The Mid-Willamette Area Council is the Oregon Federation’s largest regional council, serving square, round, and clogging clubs across Oregon’s central Willamette Valley—from Salem’s Salem Square Dance Center to clubs in Albany, Corvallis, Lebanon, McMinnville, Silverton, and Woodburn. Documented in Federation records since 1965 and hosting statewide meetings as early as 1970, the council coordinates club activity, promotes lessons and demos, selects the Oregon “Round of the Month,” and mounts area events like the annual Fall Festival. In 2019 the council’s site listed meetings on the third Monday (Sep/Nov/Jan/Mar/May) at the Salem Square Dance Center.
 
-## Directory Information
+## Directory council-cardrmation
 
 __Website:__ [midwillamettearea.org](https://midwillamettearea.org)
 
@@ -22,7 +22,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
 ## 2025–2026 Area Officers
 
-???+ info "President • George Hagerman"
+???+ council-card "President • George Hagerman"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 371-8951](tel:+15033718951)
@@ -33,7 +33,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-???+ info "Vice-President • Karyn (Mathew) Buchheit"
+???+ council-card "Vice-President • Karyn (Mathew) Buchheit"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 873-5241](tel:+15038735241)
@@ -44,7 +44,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? info "Secretary • Marilyn Schmit"
+??? council-card "Secretary • Marilyn Schmit"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 508-0539](tel:+15035080539)
@@ -55,7 +55,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? info "Treasurer • Barbi Ashwill"
+??? council-card "Treasurer • Barbi Ashwill"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 510-4354](tel:+15035104354)
@@ -66,7 +66,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? info "Delegate • Brooke Davison"
+??? council-card "Delegate • Brooke Davison"
     <div class="grid" markdown>
 
     :material-phone-classic: [(858) 603-0216](tel:+18586030216)
@@ -77,7 +77,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? info "Alternate Delegate • Petrina Buchheit"
+??? council-card "Alternate Delegate • Petrina Buchheit"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 873-5241](tel:+15038735241)
@@ -88,7 +88,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? info "Area Editor • Norma (Gary) Sohn"
+??? council-card "Area Editor • Norma (Gary) Sohn"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 260-1632](tel:+15032601632)
@@ -99,7 +99,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
     
-??? info "Round Dance Coordinator • Judy Russell (Bruce Lowther)"
+??? council-card "Round Dance Coordinator • Judy Russell (Bruce Lowther)"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 991-2161](tel:+15039912161)
@@ -110,7 +110,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? info "Webmaster • Layhna"
+??? council-card "Webmaster • Layhna"
     <div class="grid" markdown>
 
     :material-phone-classic: [(541) 905-1853](tel:+15419051853)
@@ -121,7 +121,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? info "Sunshine • Barbi Ashwill"
+??? council-card "Sunshine • Barbi Ashwill"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 510-4354](tel:+15035104354)
@@ -132,7 +132,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? info "Past President • Karyn (Mathew) Buchheit"
+??? council-card "Past President • Karyn (Mathew) Buchheit"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 873-5241](tel:+15038735241)
