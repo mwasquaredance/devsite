@@ -107,6 +107,7 @@
     address: PO Box 212
     city: McMinnville, OR 97128
   - role: Caller
+    feature: true
     type: caller
     name: Bruce Lowther (Judy Russell)
     phone: 503-930-0165

@@ -10,6 +10,7 @@
 {% if person.website %}
     :   ([{{person.website}}](http://{{person.website}}))
 {% endif %}
+
 {% endfor %}
 
 -   {% if club.website %}[**{{club.website}}**](http://{{club.website}}){% endif %}
@@ -27,7 +28,7 @@
 
 </div>
 
-[{{club.name}} Directory](/directory/#{{club.id}})
+[{{club.name}} Directory](/website/directory/#{{club.slug}})
 
 ---
 {% endfor %}

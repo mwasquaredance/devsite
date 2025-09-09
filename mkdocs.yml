@@ -5,7 +5,7 @@
 
 # Project Information
 site_name: MWA Square Dance
-site_url: https://mwasquaredance.github.io/website/
+site_url: https://mwasquaredance.github.io/devsite/
 site_author: Layhna
 copyright: "Updated: September 2025 by Layhna"  # automatically added to footer
 
@@ -20,6 +20,7 @@ nav:
   - Home: index.md
   - Council: council/index.md
   - Clubs: clubs/index.md
+  - Directory: directory/index.md
   - Pictures: drafts/index.md
   - More Info: drafts/index.md
   - Palette: drafts/index.md
