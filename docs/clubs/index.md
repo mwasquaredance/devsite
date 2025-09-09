@@ -5,10 +5,10 @@
 
 <div class="grid cards" markdown>
 
--   {% for feat in club.directory where feature=true %}**{{feat.role}}:** {{feat.name}} {% if feat.website %}({{feat.note}}){% endif %}
+-   {% for person in club.directory if person.feature %}**{{person.role}}:** {{person.name}} {% if person.note %}({{person.note}}){% endif %}
 
-{% if feat.website %}
-    :   ([{{feat.website}}](http://{{feat.website}}))
+{% if person.website %}
+    :   ([{{person.website}}](http://{{person.website}}))
 {% endif %}
 {% endfor %}
 
@@ -16,14 +16,14 @@
 
     **{{club.event}} {{club.days}},** {{club.time}}
 
-{% if club.website %}
+{% if club.months %}
     :   {{club.months}}{% endif %}
 
     **{{club.hall}}**
 
     :   {{club.address}} {{club.city}}
 
-    {% if club.website %}**Dark:** {{club.dark}}{% endif %}
+    {% if club.dark %}**Dark:** {{club.dark}}{% endif %}
 
 </div>
 

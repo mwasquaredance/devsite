@@ -8,11 +8,11 @@ title: Council
 
 <div class="undec" markdown>
 
-- **Meetings** {{ clubs.council.days }}, {{ clubs.council.time }} — {{ clubs.council.months }}
+- **Meetings** {{ council.days }}, {{ council.time }} — {{ council.months }}
 
-- **Location:** {{ clubs.council.hall }}, {{ clubs.council.address }}, {{ clubs.council.city }}
+- **Location:** {{ council.hall }}, {{ council.address }}, {{ council.city }}
 
-- **Website:** [{{ clubs.council.website }}](http://{{ clubs.council.website_url }})
+- **Website:** [{{ council.website }}](http://{{ council.website }})
 
 </div>
 
