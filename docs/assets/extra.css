@@ -105,6 +105,15 @@ details summary { font-size: 1rem; } /* title bar */
 details .grid p { font-size: .85rem; } /* inside text */
 
 
+/* Undecorated list (get rid of bullets) */
+.undec li { list-style-type: none;}
 
+.grid dd {
+  margin-top: 0;
+  margin-bottom: 1em;
+  line-height: 0.3;
+}
+
+.grid ul li p { margin: 1em 0;}
 
 

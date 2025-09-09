@@ -90,4 +90,5 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
+  - macros
 #  - social

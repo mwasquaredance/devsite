@@ -12,8 +12,7 @@ hide:
 
 ---
 
-## *Serving Square and Round Dance Clubs*
-## *in Oregon's Central Willamette Valley*
+## *Serving Square and Round Dance Clubs in Oregon's Central Willamette Valley*
 
 ---
 

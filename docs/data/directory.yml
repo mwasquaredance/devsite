@@ -1,0 +1,650 @@
+- id: council
+  name: Mid-Willamette Area Council
+  website: www.midwillamettearea.org
+  hall: Salem Square Dance Center
+  address: 3695 45th Avenue NE 
+  city: Salem, OR 97305
+  event: Meeting
+  days: 3rd Mondays
+  time: 7:30 PM
+  months: September, November, January, March, May
+  dark: ''
+  directory:
+  - role: President
+    name: Georgette Hagerman
+    phone: 503-371-8951
+    email: ghcpapc@qwestoffice.net
+    address: 5250 Zosel Avenue S
+    city: Salem, OR 97306
+  - role: Vice-President
+    name: Karyn (Mathew) Buchheit
+    phone: 503-873-5241
+    email: buchheitfarmkm@gmail.com
+    address: 6122 Brush Creek Road
+    city: Silverton, OR 97381
+  - role: Secretary
+    name: Marilyn Schmit
+    phone: 503-508-0539
+    email: froggydancer@live.com
+    address: 376 SE Needham St
+    city: Dallas, OR 97338
+  - role: Treasurer
+    name: Barbi Ashwill
+    phone: 503-510-4354
+    email: barbi97305@comcast.net
+    address: 4684 Ivory Way NE
+    city: Salem, OR 97305
+  - role: Delegate
+    name: Brooke Davison
+    phone: 858-603-0216
+    email: davison.brooke.77@gmail.com
+    address: 3317 Oxford Avenue SE
+    city: Albany, OR 97322
+  - role: Alternate Delegate
+    name: Petrina Buchheit
+    phone: 503-873-5241
+    email: buchheitfarmkm@gmail.com
+    address: 6122 Brush Creek Road
+    city: Silverton, OR 97381
+  - role: Area Editor
+    name: Norma (Gary) Sohn
+    phone: 503-260-1632
+    email: sohnnorma40@yahoo.com
+    address: PO Box 686
+    city: Lafayette, OR 97127
+  - role: Round Dance Coordinator
+    name: Judy Russell (Bruce Lowther)
+    phone: 503-991-2161
+    email: 97383sewsquare@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97381
+  - role: Sunshine
+    name: Barbi Ashwill
+    phone: 503-510-4354
+    email: barbi97305@comcast.net
+    address: 4684 Ivory Way NE
+    city: Salem, OR 97305
+  - role: Past President
+    name: Karyn (Mathew) Buchheit
+    phone: 503-873-5241
+    email: buchheitfarmkm@gmail.com
+    address: 6122 Brush Creek Road
+    city: Silverton, OR 97381
+- slug: braids-and-braves
+  name: Braids And Braves
+  website:
+  hall: McMinnville Grange
+  address: 1700 Old Sheridan Road
+  city: McMinnville, OR 97128
+  event: Dancing
+  days: 3rd Saturdays
+  time: 5:00-7:30 PM
+  months:
+  dark:
+  directory:
+  - role: President
+    name: Don (Deena) Myatt
+    phone: 971-237-1900
+    email: quads5@live.com
+    address: PO Box 212
+    city: McMinnville, OR 97128
+  - role: Vice-President
+    name: Trena (Chuck) Worthington
+    phone: 503-560-8170
+    email: trenawmt@yahoo.com
+    address: PO Box 132
+    city: Yamhill, OR 97148
+  - role: Secretary
+    name: Verna Behm-Wishart
+    phone: 971-409-6376
+    email: verbe2012@gmail.com
+    address: PO Box 464
+    city: Carlton, OR 97111
+  - role: Treasurer
+    name: Lynn Gadberry
+    phone: 971-237-3330
+    email: lgadber@linfield.edu
+    address: PO Box 212
+    city: McMinnville, OR 97128
+  - role: Caller
+    type: caller
+    name: Bruce Lowther (Judy Russell)
+    phone: 503-930-0165
+    email: blowther01@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383
+  - role: Cuer
+    feature: true
+    name: Judy Russell (Bruce Lowther)
+    phone: 503-991-2161
+    email: sewsquare@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383
+- slug: capitol-callers-and-cuers-association
+  name: Capitol Callers And Cuers Association
+  website: www.ccca-or.org
+  hall: Salem Square Dance Center
+  address: 3695 45th Avenue NE
+  city: Salem, OR 97305
+  event: Meeting
+  days: 3rd Sundays
+  time: 1:30 PM
+  months: Sept, Nov, Feb, May
+  dark: June, July, August
+  directory:
+  - role: President
+    name: Bruce Lowther (Judy Russell)
+    phone: 503-930-0165
+    email: blowther01@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton OR, 97383
+  - role: Vice-President
+    name: Thomas Buchheit
+    phone: 503-873-5241
+    email: buchheit.tj@gmail.com
+    address: 6122 Brush Creek Road NE
+    city: Silverton, OR 97381
+  - role: Secretary
+    name: Marilyn Schmit
+    phone: 503-508-0539
+    email: froggydancer@live.com
+    address: 376 SE Needham St
+    city: Dallas, OR 97338
+  - role: Treasurer
+    name: Judy Russell (Bruce Lowther)
+    phone: 503-991-2161
+    email: sewsquare@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383
+  - role: Delegate
+    name: KC (Linda) Curtis
+    phone: 503-661-4366
+    email: kccaller@comcast.net
+    address: 3835 SE 166th
+    city: Portland, OR 97236
+- slug: cherry-city-cloggers
+  name: Cherry City Cloggers
+  website:
+  hall: Salem Square Dance Center
+  address: 3695 45th Avenue N
+  city: Salem, OR 97305
+  event: Dancing
+  days: Tuesdays
+  time: 4:00-8:00 PM
+  months:
+  dark:
+  directory:
+  - role: President
+    name: Mary Ellen Ramseyer
+    phone: 503-871-8281
+    email: ramseyer_mary@hotmail.com
+    address: 1751 Noble Fir Lane S
+    city: Salem, OR 97306
+  - role: Vice-President
+    name: Linda Lichty
+    phone: 503-851-8814
+    email: lrcraw01@msn.com
+    address: 4683 46th Avenue
+    city: Salem, OR 97305
+  - role: Secretary
+    name: Kendra Votava
+    phone: 951-259-7029
+    email: joshsprttygrl@yahoo.com
+    address: 516 Eagle View Drive NW
+    city: Salem, OR 97304
+  - role: Treasurer
+    name: Miranda Mann
+    phone: 503-910-1289
+    email: miranmann99@gmail.com
+    address: 5128 Yukon Court NE
+    city: Salem, OR 97305
+  - role: Delegate
+    name: Delva Chuculate
+    phone: 503-689-6557
+    email: sistermae1952@gmail.com
+    address: 283 W Virginia Street
+    city: Stayton, OR 97383
+  - role: Cuer/Instructor
+    feature: true
+    name: Rolita LaForge
+    phone:
+    email: rolitalaforge@gmail.com
+    address:
+    city:
+  - role: Cuer/Instructor
+    feature: true
+    name: Glee Johnson
+    phone:
+    email: clogongj@hotmail.com
+    address:
+    city:
+  - role: Cuer/Instructor
+    feature: true
+    name: Staci Larson
+    phone:
+    email: staci.larson@comcast.net
+    address:
+    city:
+- slug: corvallis-square-dancers
+  name: Corvallis Square Dancers
+  website: www.corvallissquares.com
+  hall: First Baptist Church
+  address: 125 NW 10th Street
+  city: Corvallis, OR 97330
+  event: Dancing
+  days: 2nd & 4th Saturdays
+  time: 7:00-10:00 PM
+  months:
+  dark: mid June through August
+  directory:
+  - role: President
+    name: Deborah Snelling
+    phone: 541-231-5622
+    email: snelling22@comcast.net
+    address: 3117 NE Newcastle Place
+    city: Corvallis, OR 97330
+  - role: Vice-President
+    name: Cynthia Lamb
+    phone: 541-753-4000
+    email:
+    address: 2500 NW Leonard Street
+    city: Corvallis, OR 97333
+  - role: Secretary
+    name: Cynthia Lamb
+    phone: 541-753-4000
+    email:
+    address: 2500 NW Leonard Street
+    city: Corvallis, OR 97333
+  - role: Treasurer
+    name: Carol (Myron) Joyner
+    phone: 541-926-5899
+    email: c.m.joyner@comcast.net
+    address: 4455 NW Glenwood Avenue
+    city: Albany, OR 97322
+  - role: Delegate
+    name: Deborah Snelling
+    phone: 541-231-5622
+    email: snelling22@comcast.net
+    address: 3117 NE Newcastle Place
+    city: Corvallis, OR 97330
+  - role: Caller
+    feature: true
+    name: Guest
+    phone:
+    email:
+    address:
+    city:
+  - role: Cuer
+    feature: true
+    name: Guest
+    phone:
+    email:
+    address:
+    city:
+- slug: independence-wagon-wheelers
+  name: Independence Wagon Wheelers
+  website: www.wagonwheelers.bravehost.com
+  hall: Salem Square Dance Center
+  address: 3695 45th Avenue NE
+  city: Salem, OR 97305
+  event: Dancing
+  days: 1st and 2nd Saturdays
+  time: 6:30-9:45 PM
+  months:
+  dark:
+  directory:
+  - role: President
+    name: Tim (Cheryl) Hagey
+    phone: 541-829-3058
+    email: cigarsquid@yahoo.com
+    address: 710 12th Avenue SW
+    city: Albany, OR 97321
+  - role: Vice-President
+    name: Paul Baldwin
+    phone: 714-609-4074
+    email: paul6281@live.com
+    address: 1597 Barberry Avenue
+    city: Dallas, OR 97338
+  - role: Treasurer
+    name: Joanne Risewick
+    phone: 503-559-9353
+    email: mingtwo@comcast.net
+    address: 1174 Moneda Avenue N
+    city: Keizer, OR 97303
+  - role: Delegate
+    name: Marilyn Schmit
+    phone: 503-508-0539
+    email: froggydancer@live.com
+    address: 376 SE Needham Street
+    city: Dallas, OR 97338
+  - role: Caller
+    feature: true
+    name: KC (Linda) Curtis
+    phone: 503-661-4336
+    email: KCCaller@comcast.net
+    address: 3835 SE 168th
+    city: Portland, OR 97236
+  - role: Cuer
+    feature: true
+    name: Stephanie (John) Lozano
+    phone: 503-341-2684
+    email: stephaniekroft@hotmail.com
+    address: '4920 Sunnyside Road SE #F2'
+    city: Salem, OR 9730
+- slug: lebanon-square-circlers
+  name: Lebanon Square Circlers
+  website: www.squarecirclers.org
+  hall: Lebanon Senior Center
+  address: 80 Tangent Street
+  city: Lebanon, OR 97355
+  event: Dancing
+  days: 1st and 3rd Saturdays
+  time: 7:30-10:30 PM
+  months:
+  dark: July and August
+  directory:
+  - role: President
+    name: Signe (Steven) McKamey
+    phone: 541-409-8925
+    email: s.s.mckamey@gmail.com
+    address: 30519 Westview Street
+    city: Lebanon, OR 97355
+  - role: Vice-President
+    name: Frank (Marianne) Cawrse
+    phone: 503-378-1311
+    email: scrapbooking.oma@gmail.com
+    address: 35930 Providence School Road
+    city: Lebanon, OR 97355
+  - role: Secretary
+    name: Kaynor (Nick) Heineck
+    phone: 541-259-4007
+    email: kaynorh@kaynor.net
+    address: 38132 Vine Street
+    city: Lebanon, OR 97355
+  - role: Treasurer
+    name: Barbara (Fred) Schafer
+    phone: 541-401-3435
+    email: schafeb2020@gmail.com
+    address: 130 Cleveland
+    city: Lebanon, OR 97355
+  - role: Delegate
+    name: Grace Christensen
+    phone: 503-508-4442
+    email: graciegal4956@gmail.com
+    address: 1910 S 9th
+    city: Lebanon, OR 97355
+  - role: Caller
+    feature: true
+    name: Shaun (Lila) McKamey
+    phone: 503-559-9965
+    email: shaunmack1@yahoo.com
+    address: 959 SE Lyle Street
+    city: Dallas, OR 97338
+- slug: re-vu-n-q
+  name: Re Vu N Q
+  website:
+  hall: Salem Square Dance Center
+  address: 3695 45th Avenue NE
+  city: Salem, OR 97305
+  event: Dancing Phase 3-4
+  days: Thursdays
+  time: 7:30-9:30 PM
+  months:
+  dark:
+  directory:
+  - role: President
+    name: Marilyn Schmit
+    phone: 503-508-0539
+    email: froggydancer@live.com
+    address: 376 SE Needham Street
+    city: Dallas, OR 97338
+  - role: Vice-President
+    name: Richard Smith
+    phone: 503-393-2187
+    email: rwlssmith@q.com
+    address: 7539 Lakeside Drive NE
+    city: Salem, OR 97305
+  - role: Secretary
+    name: Marilyn Schmit
+    phone: 503-508-0539
+    email: froggydancer@live.com
+    address: 376 SE Needham Street
+    city: Dallas, OR 97338
+  - role: Treasurer
+    name: Georgette Hagerman
+    phone: 503-371-8951
+    email: ghcpapc@qwestoffice.net
+    address: 5250 Zosel Avenue S
+    city: Salem, OR 97306
+  - role: Cuer
+    feature: true
+    name: Randy Lewis
+    phone: 503-645-9233
+    email: rcl831@frontier.com
+    address: 1596 NW Tanasbrook Court
+    city: Beaverton, OR 97006'
+- slug: salem-swingin-stars
+  name: Salem Swingin' Stars
+  website: www.salemswinginstars.com
+  hall: Salem Square Dance Center
+  address: 3695 45th Avenue NE
+  city: Salem, OR 97305'
+  event: Dancing
+  days: 1st, 3rd, & 5th Friday
+  time: 7:00-10:30 PM
+  months:
+  dark:
+  directory:
+  - role: President
+    name: Terry McCarty
+    phone: 503-383-5925
+    email: tjmccarty50@gmail.com
+    address: 468 Hawthorne Road NE
+    city: Salem, OR 97301
+  - role: Vice-President
+    name: Tony Jorajuria
+    phone: 650-222-0177
+    email: tntwords1@gmail.com
+    address: 525 Reuben Boise Road
+    city: Dallas, OR 97338
+  - role: Secretary
+    name: Vanessa Ellis
+    phone: 503-510-8002
+    email: viellis95@gmail.com
+    address: '2200 Lancaster Drive SE #8D'
+    city: Salem, OR 97317
+  - role: Treasurer
+    name: Sheila Machado
+    phone: 503-884-0158
+    email: sheilainsalem@hotmail.com
+    address: 4829 San Gabriel Court NE
+    city: Salem, OR 97305
+  - role: Delegate
+    name: Richard Smith
+    phone: 503-393-2187
+    email: rwlssmith@q.com
+    address: 7539 Lakeside Drive NE
+    city: Salem, OR 97305'
+  - role: Caller
+    feature: true
+    name: Randy (Sharon) Dibble
+    phone: 503-538-8954
+    email: rsdibble@comcast.net
+    address: '501 E Illinois #17'
+    city: Newberg, OR 97132
+  - role: Cuer
+    feature: true
+    name: Randy Lewis
+    phone: 503-645-9233
+    email: rcl831@frontier.com
+    address: 1596 NW Tanasbrook Court
+    city: Beaverton, OR 97006
+- slug: silver-city-squares
+  name: Silver City Squares
+  website:
+  hall: Waldo Hills Community Club
+  address: 1267 Cascade Highway and Sunnyview Road
+  city: Silverton, OR 97381
+  event: Dancing
+  days: 2nd Fridays and 4th Saturdays (5th Saturday only if the 1st day of the month is a Saturday)
+  time: 7:30-11:00 PM
+  months:
+  dark:
+  directory:
+  - role: President
+    name: Bob (Lois) Wachter
+    phone: 503-845-6292
+    email: opabob@mtangel.net
+    address: PO Box 597
+    city: Mt. Angel, OR 97362
+  - role: Vice-President
+    name: Kaylia Avila
+    phone: 503-480-5225
+    email: justsayno2turkeyjerky@gmail.com
+    address: 747 Wisteria Street
+    city: Independence, OR 97351
+  - role: Secretary
+    name: Karyn (Mathew) Buchheit
+    phone: 503-873-5241
+    email: buchheitfarmkm@gmail.com
+    address: 6122 Brush Creek Road
+    city: Silverton, OR 97381
+  - role: Treasurer
+    name: Karyn (Mathew) Buchheit
+    phone: 503-873-5241
+    email: buchheitfarmkm@gmail.com
+    address: 6122 Brush Creek Road
+    city: Silverton, OR 97381
+  - role: Delegate
+    name: Brooke Davison
+    phone: 858-603-0216
+    email: davison.brooke.77@gmail.com
+    address: 3317 Oxford Avenue SE
+    city: Albany, OR 97322
+  - role: Caller
+    feature: true
+    name: Thomas Buchheit (Friday)
+    phone: 503-873-5241
+    email: buchheit.tj@gmail.com
+    address: 6122 Brush Creek Road
+    city: Silverton, OR 97381
+  - role: Caller
+    feature: true
+    name: KC (Linda) Curtis (Saturday)
+    phone: 503-661-4336
+    email: KCCaller@comcast.net
+    address: 3835 SE 168th
+    city: Portland, OR 97236
+  - role: Cuer
+    feature: true
+    name: Mark McDonald
+    phone: 541-420-9368
+    email: iq4u.markmcdonald@yahoo.com
+    address: 65200 Hunnell Road
+    city: Bend, OR 97703
+- slug: timber-twirlers
+  name: Timber Twirlers
+  website: www.angelfire.com/sd2timbertwirlers
+  hall: IOOF Hall
+  address: 738 SE 5th
+  city: Albany, OR 97322
+  event: Dancing
+  days: 1st Fridays
+  time: 7:00-9:30 PM
+  months:
+  dark: June through September
+  directory:
+  - role: President
+    name: Judy Russell (Bruce Lowther)
+    phone: 503-991-2161
+    email: sewsquare@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383
+  - role: Secretary
+    name: Shari (Mark) Schonbrun
+    phone: 916-533-3304
+    email: purpleshari@aol.com
+    address: 937 Limelight Avenue NW
+    city: Salem, OR 97304
+  - role: Treasurer
+    name: Sherry Oliver (Lynda McClanahan)
+    phone: 541-220-8458
+    email: saomusic@aol.com
+    address: '333 Hickory Street NW #104'
+    city: Albany, OR 97321
+  - role: Delegate
+    name: Judy Russell (Bruce Lowther)
+    phone: 503-991-2161
+    email: sewsquare@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383
+  - role: Caller
+    feature: true
+    name: Bruce Lowther (Judy Russell)
+    phone: 503-930-0165
+    email: blowther01@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383
+  - role: Cuer
+    feature: true
+    name: Judy Russell (Bruce Lowther)
+    phone: 503-991-2161
+    email: sewsquare@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383
+- slug: willamette-squares
+  name: Willamette Squares
+  website:
+  hall: Salem Square Dance Center
+  address: 3695 45th Avenue NE
+  city: Salem, OR 97305
+  event: Dances
+  days: 4th Saturdays
+  time: 7:00-10:15 PM
+  months:
+  dark:
+  directory:
+  - role: President
+    name: Sherrie Stanula
+    phone: 708-543-8015
+    email: sherriestanula7989@gmail.com
+    address: 2000 Robins Lane SE Unit 12
+    city: Salem, OR 97306
+  - role: Vice-President
+    name: Kevin Stanula
+    phone: 503-576-1848
+    email: kevinst86@gmail.com
+    address: 2000 Robins Lane SE Unit 12
+    city: Salem, OR 97306
+  - role: Secretary
+    name: Shari (Mark) Schonbrun
+    phone: 916-533-3304
+    email: purpleshari@aol.com
+    address: 937 Limelight Avenue NW
+    city: Salem, OR 97304
+  - role: Treasurer
+    name: Georgette Hagerman
+    phone: 503-371-8951
+    email: ghcpapc@qwestoffice.net
+    address: 5250 Zosel Avenue S
+    city: Salem, OR 97306
+  - role: Delegate
+    name: Shari Schonbrun
+    phone: 916-533-3304
+    email: purpleshari@aol.com
+    address: 937 Limelight Avenue NW
+    city: Salem, OR 97304
+  - role: Caller
+    feature: true
+    name: Bruce Lowther (Judy Russell)
+    phone: 503-930-0165
+    email: blowther01@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383
+  - role: Cuer
+    feature: true
+    name: Judy Russell (Bruce Lowther)
+    phone: 503-991-2161
+    email: sewsquare@wvi.com
+    address: 1316 E Burnett Street
+    city: Stayton, OR 97383

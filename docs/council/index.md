@@ -1,11 +1,22 @@
 ---
 title: Council
-hide:
-#  - navigation    # hide tabs / left sidebar on the homepage
-#  - toc           # hide the in-page table of contents here
 ---
 
 # Mid-Willamette Area Council
+
+---
+
+<div class="undec" markdown>
+
+- **Meetings** {{ clubs.council.days }}, {{ clubs.council.time }} — {{ clubs.council.months }}
+
+- **Location:** {{ clubs.council.hall }}, {{ clubs.council.address }}, {{ clubs.council.city }}
+
+- **Website:** [{{ clubs.council.website }}](http://{{ clubs.council.website_url }})
+
+</div>
+
+---
 
 ## About the Council
 
@@ -31,9 +42,11 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     :material-map-marker: 5250 Zosel Avenue S, Salem, OR 97306
 
+    :material-open-in-new: [personalsite.net](http://personalsite.net)
+
     </div>
 
-???+ council-card "Vice-President • Karyn (Mathew) Buchheit"
+???+ club-card "Vice-President • Karyn (Mathew) Buchheit"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 873-5241](tel:+15038735241)
@@ -121,7 +134,7 @@ __Location:__ Salem Square Dance Center, 3695 45th Avenue NE, Salem, OR 97305
 
     </div>
 
-??? council-card "Sunshine • Barbi Ashwill"
+??? club-card "Sunshine • Barbi Ashwill"
     <div class="grid" markdown>
 
     :material-phone-classic: [(503) 510-4354](tel:+15035104354)
