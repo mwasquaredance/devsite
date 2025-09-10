@@ -21,8 +21,7 @@ nav:
   - Council: council/index.md
   - Clubs: clubs/index.md
   - Directory: directory/index.md
-  - Pictures: drafts/index.md
-  - More Info: drafts/index.md
+  - Square Dance: squaredance/index.md
   - Palette: drafts/index.md
 
 
@@ -39,7 +38,7 @@ theme:
   favicon: assets/rhombus-split.svg
   features:
     - navigation.tabs         # render top-level sections in header, >1220px viewports
-  #  - navigation.tabs.sticky  # tabs always remain visible
+    - navigation.tabs.sticky  # tabs always remain visible
     - navigation.sections     # top-level sections rendered as groups in sidebar
     - navigation.indexes      # page title is section title
     - navigation.instant      # internal links dispatched via XHR
@@ -71,6 +70,9 @@ draft_docs:   # serve but exclude from build
 extra_css:
   - assets/extra.css
   - assets/colors.css
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - assets/tablesort.js
 
 # Extensions
 markdown_extensions:
@@ -79,6 +81,9 @@ markdown_extensions:
   - def_list    # add Definition Lists
   - md_in_html  # allow markdown within HTML
   - tables      # adds table support
+  - pymdownx.caret            # formatting support
+  - pymdownx.mark             # formatting support
+  - pymdownx.tilde            # formatting support
   - pymdownx.superfences      # allows nesting
   - pymdownx.details          # allows collapsible call-outs
   - pymdownx.blocks.caption   # add captions to any markdown block

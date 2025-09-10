@@ -334,7 +334,7 @@
     city: Salem, OR 9730
 - slug: lebanon-square-circlers
   name: Lebanon Square Circlers
-  website: www.squarecirclers.org
+  website: www.lebanonsquarecirclers.com
   hall: Lebanon Senior Center
   address: 80 Tangent Street
   city: Lebanon, OR 97355
@@ -381,6 +381,7 @@
     email: shaunmack1@yahoo.com
     address: 959 SE Lyle Street
     city: Dallas, OR 97338
+    website: shaunmckameycaller.com
 - slug: re-vu-n-q
   name: Re Vu N Q
   website:
@@ -487,9 +488,9 @@
   address: 1267 Cascade Highway and Sunnyview Road
   city: Silverton, OR 97381
   event: Dancing
-  days: 2nd Fridays and 4th Saturdays (5th Saturday only if the 1st day of the month is a Saturday)
+  days: 2nd Fridays and 4th Saturdays
   time: 7:30-11:00 PM
-  months:
+  months: (5th Saturday only if the 1st day of the month is a Saturday)
   dark:
   directory:
   - role: President
