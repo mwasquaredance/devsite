@@ -109,17 +109,25 @@ details .grid p { font-size: .85rem; } /* inside text */
 .undec li { list-style-type: none;}
 
 
-.card-header { 
+/* Adds a header color to grid cards */
+.card-header li>:first-child { position:relative }
+
+.card-header li>:first-child::before {
+  content: "";
+  position: absolute;
+  top: -0.5em;
+  left: -0.5em;
+  right: -0.5em;
+  bottom: -0.5em;
+  /*height: 2.2rem;*/
   background: var(--md-accent-fg-color);
-  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  z-index: 0; 
 }
-.card-header > p,
-.card-header > hr {
-  margin: 0;
-}
-.card-header > hr {
-  border: 0;
-  border-bottom: 1px solid #ccc;
+
+.card-header li>:first-child > * {
+  position: relative;
+  z-index: 1;
 }
 
 
