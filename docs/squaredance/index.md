@@ -14,8 +14,8 @@
 | Sundays, 4:00-5:15 PM | Lebanon Senior Center | (info) | Phase 1-2 Waltz | Tim Morse |
 | Sundays, 5:30-7:00 PM | Lebanon Senior Center | (info) | Mainstream | Shaun McKamey |
 | Mondays, 7:00-8:30 PM | Albany IOOF | (info) | Mainstream | Bruce Lowther |
-| Tuesdays, time-time PM | Waldo Hills Community Center (Silverton) | (info) | Mainstream | KC Curtis |
-| Tuesdays, time-time PM | Waldo Hills Community Center (Silverton) | (info) | Phase 1-2 Two-Step | Julia Buchheit |
+| Tuesdays, time-time PM | Waldo Hills Community Club (Silverton) | (info) | Mainstream | KC Curtis |
+| Tuesdays, time-time PM | Waldo Hills Community Club (Silverton) | (info) | Phase 1-2 Two-Step | Julia Buchheit |
 
 
 
