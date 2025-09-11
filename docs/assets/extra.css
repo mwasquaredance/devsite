@@ -109,8 +109,17 @@ details .grid p { font-size: .85rem; } /* inside text */
 .undec li { list-style-type: none;}
 
 
-.festival li > :first-child { 
-  background-color: var(--md-accent-fg-color);
+.card-header { 
+  background: var(--md-accent-fg-color);
+  padding: 0.5rem 1rem;
+}
+.card-header > p,
+.card-header > hr {
+  margin: 0;
+}
+.card-header > hr {
+  border: 0;
+  border-bottom: 1px solid #ccc;
 }
 
 

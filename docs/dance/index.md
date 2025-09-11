@@ -2,11 +2,13 @@
 
 ## Festivals
 
-<div class="grid cards festival" markdown>
+<div class="grid cards" markdown>
 
--   :snowflake: **Mid-Winter Festival**
-
+-   <div class="card-header" markdown>
+    :snowflake: **Mid-Winter Festival**
+    
     ---
+    </div>
     
     :material-calendar: January
 
