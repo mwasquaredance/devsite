@@ -4,26 +4,28 @@ title: Council
 
 # Mid-Willamette Area Council
 
+
+## About the Council
+---
+
+The Mid-Willamette Area Council is the Oregon Federation’s largest regional council, serving square, round, and clogging clubs across Oregon’s central Willamette Valley—from Salem’s Salem Square Dance Center to clubs in Albany, Corvallis, Lebanon, McMinnville, Silverton, and Woodburn. Documented in Federation records since 1965 and hosting statewide meetings as early as 1970, the council coordinates club activity, promotes lessons and demos, selects the Oregon “Round of the Month,” and mounts area events like the annual Fall Festival. In 2019 the council’s site listed meetings on the third Monday (Sep/Nov/Jan/Mar/May) at the Salem Square Dance Center.
+
+## Meetings
 ---
 
 <div class="undec" markdown>
 
-- **Meetings:** {{ council.days }}, {{ council.time }} — {{ council.months }}
+- **{{ council.days }}, {{ council.time }}** — {{ council.months }}
 
-- **Location:** {{ council.hall }}, {{ council.address }}, {{ council.city }}
-
-- **Website:** [{{ council.website }}](http://{{ council.website }})
+- **{{ council.hall }},** {{ council.address }}, {{ council.city }}
 
 </div>
-
 ---
 
-## About the Council
+### Minutes & Documents
 
-The Mid-Willamette Area Council is the Oregon Federation’s largest regional council, serving square, round, and clogging clubs across Oregon’s central Willamette Valley—from Salem’s Salem Square Dance Center to clubs in Albany, Corvallis, Lebanon, McMinnville, Silverton, and Woodburn. Documented in Federation records since 1965 and hosting statewide meetings as early as 1970, the council coordinates club activity, promotes lessons and demos, selects the Oregon “Round of the Month,” and mounts area events like the annual Fall Festival. In 2019 the council’s site listed meetings on the third Monday (Sep/Nov/Jan/Mar/May) at the Salem Square Dance Center.
-
----
-
-## Minutes & Documents
+Date | Minutes | Agenda | Additional
+--- | --- | --- | ---
+September 15, 2025 | Pending | [Download Agenda] | [Optional], [Other], [Documents]
 
 ---

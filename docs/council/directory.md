@@ -1,6 +1,6 @@
-# Directory
+# Mid-Willamette Area Directory
 
-## MWA Council
+## 2025-2026 Area Officers
 
 {% for person in council.directory%}
 ???{% if person.role == "President" %}+{% endif %} council-card "{{person.role}} • {{person.name}}"

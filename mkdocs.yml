@@ -18,11 +18,13 @@ repo_url: https://github.com/mwasquaredance
 # Page Tree
 nav:
   - Home: index.md
-  - Council: council/index.md
-  - Clubs: clubs/index.md
-  - Directory: directory/index.md
-  - Square Dance: squaredance/index.md
-  - Palette: drafts/index.md
+  - MWA Council: 
+    - About: council/index.md
+    - Directory: council/directory.md
+  - Area Clubs: clubs/index.md
+  - Dance With Us: dance/index.md
+  - Square Dance Culture: culture/index.md
+  - Gallery: gallery.md
 
 
 # Theme Configuration
@@ -39,8 +41,8 @@ theme:
   features:
     - navigation.tabs         # render top-level sections in header, >1220px viewports
     - navigation.tabs.sticky  # tabs always remain visible
-    - navigation.sections     # top-level sections rendered as groups in sidebar
-    - navigation.indexes      # page title is section title
+  #  - navigation.sections     # top-level sections rendered as groups in sidebar
+  #  - navigation.indexes      # page title is section title
     - navigation.instant      # internal links dispatched via XHR
     - navigation.top          # back-to-top button
     - toc.integrate           # render toc as part of left nav  

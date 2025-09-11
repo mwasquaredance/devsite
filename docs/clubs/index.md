@@ -21,14 +21,13 @@
     :   **Dark:** {{club.dark}}{% endif %}
 
     **{{club.hall}}**
-
     :   {{club.address}} {{club.city}}
 
     {% if club.website %}:material-open-in-new: [**{{club.website}}**](http://{{club.website}}){% endif %}
 
 </div>
 
-[{{club.name}} Directory](/website/directory/#{{club.slug}})
+[{{club.name}} Directory](../council/directory.md#{{club.slug}})
 
 ---
 {% endfor %}

@@ -1,29 +1,10 @@
 # Square Dancing in Oregon
 
-## 2025-26 Lessons
-
-:material-arrow-up-down: Click to sort  
-
-| When | Where | Info | Level | Instructor |
-| --- | --- | --- | --- | --- |
-| Somedays, time-time PM | McMinnville Grange | (Link) | Mainstream | Bruce Lowther |
-| Thursdays 7:00-8:30 PM | Corvallis Community Center | (info) | Mainstream | Bruce Lowther |
-| Sundays, time-time PM | Salem Square Dance Center | (Link) | Mainstream | KC Curtis |
-| Wednesdays, 6:30-8:00 PM | Salem Square Dance Center | (info) | Mainstream | Randy Dibble |
-| Wednesdays, 8:00-9:30 PM | Salem Square Dance Center | (info) | Plus | Randy Dibble |
-| Sundays, 4:00-5:15 PM | Lebanon Senior Center | (info) | Phase 1-2 Waltz | Tim Morse |
-| Sundays, 5:30-7:00 PM | Lebanon Senior Center | (info) | Mainstream | Shaun McKamey |
-| Mondays, 7:00-8:30 PM | Albany IOOF | (info) | Mainstream | Bruce Lowther |
-| Tuesdays, time-time PM | Waldo Hills Community Club (Silverton) | (info) | Mainstream | KC Curtis |
-| Tuesdays, time-time PM | Waldo Hills Community Club (Silverton) | (info) | Phase 1-2 Two-Step | Julia Buchheit |
-
-
-
 ## Festivals
 
-<div class="grid cards" markdown>
+<div class="grid cards festival" markdown>
 
--   :snowflake: Mid-Winter Festival
+-   :snowflake: **Mid-Winter Festival**
 
     ---
     
@@ -91,6 +72,24 @@
     :material-facebook: [facebook.com/LifesADanceFestival](http://www.facebook.com/LifesADanceFestival)
 
 </div>
+
+## 2025-26 Lessons
+
+:material-arrow-up-down: Click to sort  
+
+When | Where | Level | Instructor | Info
+--- | --- | --- | --- | ---
+Somedays, time-time PM | McMinnville Grange | Mainstream | Bruce Lowther | (Link)
+Thursdays 7:00-8:30 PM | Corvallis Community Center | Mainstream | Bruce Lowther | (info)
+Sundays, time-time PM | Salem Square Dance Center | Mainstream | KC Curtis | (Link)
+Wednesdays, 6:30-8:00 PM | Salem Square Dance Center | Mainstream | Randy Dibble | (info)
+Wednesdays, 8:00-9:30 PM | Salem Square Dance Center | Plus | Randy Dibble | (info)
+Sundays, 4:00-5:15 PM | Lebanon Senior Center | Phase 1-2 Waltz | Tim Morse | (info)
+Sundays, 5:30-7:00 PM | Lebanon Senior Center | Mainstream | Shaun McKamey | (info)
+Mondays, 7:00-8:30 PM | Albany IOOF | Mainstream | Bruce Lowther | (info)
+Tuesdays, time-time PM | Waldo Hills Community Club (Silverton) | Mainstream | KC Curtis | (info)
+Tuesdays, time-time PM | Waldo Hills Community Club (Silverton) | Phase 1-2 Two-Step | Julia Buchheit | (info)
+
 
 ## Organizations
 

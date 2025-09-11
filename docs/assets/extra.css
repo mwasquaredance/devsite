@@ -108,14 +108,20 @@ details .grid p { font-size: .85rem; } /* inside text */
 /* Undecorated list (get rid of bullets) */
 .undec li { list-style-type: none;}
 
+
+.festival li > :first-child { 
+  background-color: var(--md-accent-fg-color);
+}
+
+
 /*.undec thead {display: none;}*/
 
 /*.grid dd {
   margin-top: 0;
   margin-bottom: 1em;
   line-height: 0.3;
-}
+}*/
 
-.grid ul li p { margin: 1em 0 .5em;}*/
+.grid li { background-color: var(--md-default-bg-color--light);}
 
 
