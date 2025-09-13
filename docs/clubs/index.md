@@ -1,7 +1,7 @@
 # MWA Member Clubs
 
 {% for club in clubs %}
-## {{club.name}}
+## {{club.icon}} {{club.name}}
 
 {% set featured = club.directory | selectattr('feature') | list %}
 <div class="grid cards" markdown>

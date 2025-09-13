@@ -32,12 +32,15 @@ theme:
   name: material
 #  custom_dir: overrides
   font:
-    text: Inter
+    text: Golos Text
     code: Fira Code
   icon:
     logo: material/rhombus-split
-    repo: material/folder-heart    
-  favicon: assets/rhombus-split.svg
+    repo: material/folder-heart
+    admonition:
+      example: material/rhombus-split
+      note: material/star-four-points
+  favicon: assets/favicon.svg
   features:
     - navigation.tabs         # render top-level sections in header, >1220px viewports
     - navigation.tabs.sticky  # tabs always remain visible
@@ -49,21 +52,21 @@ theme:
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/link
+        icon: material/brightness-6
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: brown
-      accent: cyan
+      primary: blue
+      accent: teal
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-4
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: brown
-      accent: indigo
+      primary: indigo
+      accent: teal
       toggle:
-        icon: material/weather-sunny
+        icon: material/brightness-5
         name: Switch to light mode  
 
 # Additional Configuration
@@ -71,7 +74,7 @@ draft_docs:   # serve but exclude from build
   drafts/
 extra_css:
   - assets/extra.css
-  - assets/colors.css
+#  - assets/colors.css
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - assets/tablesort.js

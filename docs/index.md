@@ -16,9 +16,13 @@ hide:
 
 ---
 
-[Council](council/index.md){ .md-button}
-[Clubs](clubs/index.md){ .md-button}
-[Palette](drafts/index.md){ .md-button}
+[Council & Directory](council/index.md){ .md-button}
+
+[Clubs & Dance Nights](clubs/index.md){ .md-button}
+
+[Festivals, Lessons, & More](dance/index.md){ .md-button}
+
+[All About Square Dancing](culture/index.md){ .md-button}
 
 </div>
 

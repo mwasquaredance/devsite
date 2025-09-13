@@ -1,9 +1,9 @@
 # Mid-Willamette Area Directory
 
-## 2025-2026 Area Officers
+## {{council.icon}} Area Officers 2025-2026 
 
 {% for person in council.directory%}
-???{% if person.role == "President" %}+{% endif %} council-card "{{person.role}} • {{person.name}}"
+???{% if person.role == "President" %}+{% endif %} example "{{person.role}} • {{person.name}}"
     <div class="grid" markdown>
 
     {% if person.phone %}:material-phone-classic: [{{person.phone}}](tel:+1{{person.phone}}){% endif %}
@@ -18,10 +18,10 @@
 {% endfor %}
 
 {% for club in clubs %}
-## {{club.name}}
+## {{club.icon}} {{club.name}}
 
 {% for person in club.directory%}
-???{% if person.role == "President" %}+{% endif %} club-card "{{person.role}} • {{person.name}}"
+???{% if person.role == "President" %}+{% endif %} note "{{person.role}} • {{person.name}}"
     <div class="grid" markdown>
 
     {% if person.phone %}:material-phone-classic: [{{person.phone}}](tel:+1{{person.phone}}){% endif %}

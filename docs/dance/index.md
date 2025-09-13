@@ -4,7 +4,7 @@
 
 <div class="grid cards card-header" markdown>
 
--   :snowflake: **Mid-Winter Festival**
+-   :snowflake: **Mid-Winter Festival**{ .card-header }
 
     ---
     

@@ -1,5 +1,6 @@
 - id: council
   name: Mid-Willamette Area Council
+  icon: ':identification_card:'
   website: www.midwillamettearea.org
   hall: Salem Square Dance Center
   address: 3695 45th Avenue NE 
@@ -72,6 +73,7 @@
     city: Silverton, OR 97381
 - slug: braids-and-braves
   name: Braids And Braves
+  icon: ':feather:'
   website:
   hall: McMinnville Grange
   address: 1700 Old Sheridan Road
@@ -123,6 +125,7 @@
     city: Stayton, OR 97383
 - slug: capitol-callers-and-cuers-association
   name: Capitol Callers And Cuers Association
+  icon: ':microphone:'
   website: www.ccca-or.org
   hall: Salem Square Dance Center
   address: 3695 45th Avenue NE
@@ -165,6 +168,7 @@
     city: Portland, OR 97236
 - slug: cherry-city-cloggers
   name: Cherry City Cloggers
+  icon: ':cherries:'
   website:
   hall: Salem Square Dance Center
   address: 3695 45th Avenue N
@@ -228,6 +232,7 @@
     city:
 - slug: corvallis-square-dancers
   name: Corvallis Square Dancers
+  icon: ':purple_heart:'
   website: www.corvallissquares.com
   hall: First Baptist Church
   address: 125 NW 10th Street
@@ -284,6 +289,7 @@
     city:
 - slug: independence-wagon-wheelers
   name: Independence Wagon Wheelers
+  icon: ':wheel:'
   website: www.wagonwheelers.bravehost.com
   hall: Salem Square Dance Center
   address: 3695 45th Avenue NE
@@ -334,6 +340,7 @@
     city: Salem, OR 9730
 - slug: lebanon-square-circlers
   name: Lebanon Square Circlers
+  icon: ':strawberry:'
   website: www.lebanonsquarecirclers.com
   hall: Lebanon Senior Center
   address: 80 Tangent Street
@@ -384,6 +391,7 @@
     website: shaunmckameycaller.com
 - slug: re-vu-n-q
   name: Re Vu N Q
+  icon: ':ballet_shoes:'
   website:
   hall: Salem Square Dance Center
   address: 3695 45th Avenue NE
@@ -427,6 +435,7 @@
     city: Beaverton, OR 97006'
 - slug: salem-swingin-stars
   name: Salem Swingin' Stars
+  icon: ':dizzy:'
   website: www.salemswinginstars.com
   hall: Salem Square Dance Center
   address: 3695 45th Avenue NE
@@ -474,6 +483,7 @@
     email: rsdibble@comcast.net
     address: '501 E Illinois #17'
     city: Newberg, OR 97132
+    website: randydibble.com
   - role: Cuer
     feature: true
     name: Randy Lewis
@@ -483,6 +493,7 @@
     city: Beaverton, OR 97006
 - slug: silver-city-squares
   name: Silver City Squares
+  icon: ':mirror_ball:'
   website:
   hall: Waldo Hills Community Club
   address: 1267 Cascade Highway and Sunnyview Road
@@ -546,6 +557,7 @@
     city: Bend, OR 97703
 - slug: timber-twirlers
   name: Timber Twirlers
+  icon: ':evergreen_tree:'
   website: www.angelfire.com/sd2timbertwirlers
   hall: IOOF Hall
   address: 738 SE 5th
@@ -596,6 +608,7 @@
     city: Stayton, OR 97383
 - slug: willamette-squares
   name: Willamette Squares
+  icon: ':national_park:'
   website:
   hall: Salem Square Dance Center
   address: 3695 45th Avenue NE
