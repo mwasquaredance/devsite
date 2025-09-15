@@ -23,6 +23,6 @@ The Mid-Willamette Area Council is the Oregon Federation’s largest regional co
 
 Date | Minutes | Agenda | Additional
 --- | --- | --- | ---
-September 15, 2025 | Pending | [Download Agenda] | [Optional], [Other], [Documents]
+September 15, 2025 | Pending | [Download Agenda] | Optional notes and [Other] [Documents]
 
 ---
