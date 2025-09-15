@@ -4,21 +4,21 @@
 
 Stepping into the world of square dancing, you’re joining a tradition with deep roots and open arms. These four pillars are the foundation upon which square dancing everywhere is built: they guide how we welcome, how we organize, how we care for one another, and how we keep the joy and music alive.
 
-1.	Fellowship & Friendliness
+### 1. Fellowship & Friendliness
 
-    Square dancing is our shared bond and our open door. Whether we travel or host, we greet one another with warmth, courtesy, and genuine interest. Fellowship lives in handshakes, laughter, shared rides, and cheering on new dancers; friendliness is the welcome we extend every time we form a square. Let it never be said that we withheld a kind word or a place on the floor. Fellowship and friendliness are the cornerstone of every square.
+Square dancing is our shared bond and our open door. Whether we travel or host, we greet one another with warmth, courtesy, and genuine interest. Fellowship lives in handshakes, laughter, shared rides, and cheering on new dancers; friendliness is the welcome we extend every time we form a square. Let it never be said that we withheld a kind word or a place on the floor. Fellowship and friendliness are the cornerstone of every square.
 
-2.	Participation & Structure
+### 2. Participation & Structure
 
-    A healthy club is built by people who show up—in the square and behind the scenes. Accept roles, serve on committees, learn the calls, and honor timing and formations. Our structure gives the dance its shape and keeps the music moving. When you are asked, say yes in the spirit it was offered, and follow through with care. May you, and those who follow you, keep the flame of participation burning brightly and the structure sound.
+A healthy club is built by people who show up—in the square and behind the scenes. Accept roles, serve on committees, learn the calls, and honor timing and formations. Our structure gives the dance its shape and keeps the music moving. When you are asked, say yes in the spirit it was offered, and follow through with care. May you, and those who follow you, keep the flame of participation burning brightly and the structure sound.
 
-3.	Integrity & Togetherness
+### 3. Integrity & Togetherness
 
-    We dance for the good of the whole square. Integrity means honoring the rules and one another: courteous conduct, safe hands, honest effort, and reliability. Togetherness means every dancer has a place and every voice can offer ideas that make the club stronger. Take an active part in all activities; in doing so, we become better and grow closer. May you, and those who follow you, keep the flame of integrity and togetherness burning long.
+We dance for the good of the whole square. Integrity means honoring the rules and one another: courteous conduct, safe hands, honest effort, and reliability. Togetherness means every dancer has a place and every voice can offer ideas that make the club stronger. Take an active part in all activities; in doing so, we become better and grow closer. May you, and those who follow you, keep the flame of integrity and togetherness burning long.
 
-4.	Fun & Music
+### 4. Fun & Music
 
-    Music is the heartbeat of our activity, and fun is its bright spirit. Let patter and singing calls lift your feet and your mood; celebrate the tunes, the cues, the quick recoveries, and the shared smiles. Joy keeps us learning, laughing, and coming back, and music binds our movement into a living rhythm. May you, and those who follow you, keep the flame of fun shining and the music alive in every square.
+Music is the heartbeat of our activity, and fun is its bright spirit. Let patter and singing calls lift your feet and your mood; celebrate the tunes, the cues, the quick recoveries, and the shared smiles. Joy keeps us learning, laughing, and coming back, and music binds our movement into a living rhythm. May you, and those who follow you, keep the flame of fun shining and the music alive in every square.
 
 ## A Short History of Modern Square Dancing
 
